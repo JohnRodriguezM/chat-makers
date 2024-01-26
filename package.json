@@ -1,0 +1,7 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John J Rodriguez <87795271+JohnRodriguezM@users.noreply.github.com>",
+  "license": "MIT"
+}
